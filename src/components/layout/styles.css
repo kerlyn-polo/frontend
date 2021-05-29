@@ -1,0 +1,12 @@
+header{
+    background-color: aqua;
+    border:  1px solid #ccc;
+}
+.panocha{
+    border: 3px solid #00aeb5
+}
+li{
+    padding-left: 10px;
+    justify-content: space-between;
+    display: flex;
+}
